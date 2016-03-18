@@ -1,4 +1,6 @@
-# React, Firebase Chat
+# React, Firebase Chat App.
+
+The app is built using ReactJs, [Alt](http://alt.js.org/), Firebase, [Material-UI](http://www.material-ui.com/#/) and Webpack
 
 To run in developement mode do the following steps.
 
